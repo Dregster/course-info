@@ -37,10 +37,10 @@ This is a tentative shedule and will be subject to changes.
 | 20/03 Wed | Lab (extra time for assignments) | |
 | 26/03 Tue | AJAX | [slides](https://speakerdeck.com/ljehl/dat310-ajax), [examples](examples/ajax), [exercises](exercises/ajax), [solutions](solutions/ajax) |
 | 27/03 Wed | 10:00 Guest lecture: Robert Ewald *Openlab: Design and Implementation of a web enabled simulation infrastructure* | |
-| 02/04 Tue | Bootstrap | |
+| 02/04 Tue | Bootstrap | [slides](https://speakerdeck.com/ljehl/dat310-bootstrap), [examples](examples/bootstrap), [exercises](exercises/bootstrap), [solutions](solutions/bootstrap) |
 | 03/04 Wed | Lab (extra time for assignments) | |
 | 09/04 Tue | Lab (extra time for assignments) | |
-| 10/04 Wed | Web APIs | |
+| 10/04 Wed | Web APIs | [slides](https://speakerdeck.com/ljehl/dat310-web-apis), [examples](examples/apis), [exercises](exercises/apis), [solutions](solutions/apis) |
 | Easter break |
 | 23/04 Tue | Trial exam /Part I. | |
 | 24/04 Wed | Trial exam /Part II. | |
